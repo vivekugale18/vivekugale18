@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSMyQnVm9S33BkdXecniqApDMqXyWktR9Yq6ZtvQlEG4MsEEILx-_7vNgNa0IWT5kf4A&usqp=CAU)
+[![MasterHead](https://tse2.mm.bing.net/th?id=OIP.swx1cPx6ZgFcIs5C01PBnwHaEK&pid=Api&P=0&h=180)
 <h1 align="center">Hi 👋, I'm vivek ugale</h1>
 <h3 align="center">An enthusiastic exploring data science</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0VdimCinG64Lc2I306y1HHJRT_BKKzqrKdA&usqp=CAU">
