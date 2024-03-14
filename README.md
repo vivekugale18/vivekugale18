@@ -1,7 +1,8 @@
-[![MasterHead](https://tse1.mm.bing.net/th?id=OIP.Zy97a_MzVJMUt2fUC8iLQgHaFx&pid=Api&P=0&h=180)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNG0TpH0wk8gE4dfz6AGy7AVsA2Sq-NGKL6EEj70UWYqJkRyO9iqdi_q0wGOyKo-ccKaU&usqp=CAU)
 <h1 align="center">Hi 👋, I'm vivek ugale</h1>
 <h3 align="center">An enthusiastic exploring data science</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0VdimCinG64Lc2I306y1HHJRT_BKKzqrKdA&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtBPQr3QtF9oShmIQzqvbOMguqQnPzBNIsg&usqp=CAU">
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
