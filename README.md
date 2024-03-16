@@ -1,12 +1,12 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNG0TpH0wk8gE4dfz6AGy7AVsA2Sq-NGKL6EEj70UWYqJkRyO9iqdi_q0wGOyKo-ccKaU&usqp=CAU)
+![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 <h1 align="center">Hi 👋, I'm vivek ugale</h1>
 <h3 align="center">An enthusiastic exploring data science</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtBPQr3QtF9oShmIQzqvbOMguqQnPzBNIsg&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU">
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- persuing BE in IT at i2it **,Pune**
+-   persuing BE in IT at i2it **,Pune**
 
 - 🌱 I’m currently learning **Data Analytics**
 
